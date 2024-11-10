@@ -1,10 +1,4 @@
-## 👋 Hello! I'm Jean de Jesus – a Software Developer passionate about building robust, efficient solutions.
-
-My expertise lies in developing backend solutions, creating scalable data models, automating workflows, and maintaining high-performance services. I’m dedicated to writing clean, maintainable code and continuously improving systems to drive productivity and reliability.
-
-My adaptability to diverse technologies and strong problem-solving skills allow me to tackle complex challenges and continuously improve systems. I'm committed to writing clean, maintainable code and am always open to learning and refining my approach.
-
------------------------------------
+## 👋 Hello!
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=je4ngomes&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="je4ngomes" width="400" height="160"/>
