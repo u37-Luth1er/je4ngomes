@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=je4ngomes&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="je4ngomes" width="400" height="160"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=je4ngomes&theme=omni&hide_border=true" alt="je4ngomes" width="405" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=je4ngomes&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="je4ngomes" width="405" />
+</div>    
+<br>
 <!--
 **je4ngomes/je4ngomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
