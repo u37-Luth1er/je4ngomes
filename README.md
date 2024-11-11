@@ -1,4 +1,4 @@
-## 👋 Hello!
+![cyber_room](https://github.com/user-attachments/assets/046786d0-e7fb-4b0c-ad53-ad3954dbab82)
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=je4ngomes&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="je4ngomes" width="400" height="160"/>
